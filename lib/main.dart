@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'juliocarneiro.com.br',
+      title: 'Júlio Carneiro | Software Developer',
       theme: ThemeData(
         textTheme: GoogleFonts.ubuntuTextTheme(
           Theme.of(context).textTheme,
